@@ -1,17 +1,13 @@
 # Hello, I'm Bola
 <a href="https://linkedin.com/in/bolasomade/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I'm a GIAC certified professional with over 10 years of experience in accounting, auditing, and business operations. I'm dedicated to growth, learning, and solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 I've developed a passion for cybersecurity with a specifc interest in learning to build and secure networks efficiently. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
