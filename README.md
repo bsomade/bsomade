@@ -21,13 +21,11 @@ I've developed a passion for cybersecurity with a specifc interest in learning t
 
 ### Ticketing System
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
