@@ -11,10 +11,10 @@ I've developed a passion for cybersecurity with a specifc interest in learning t
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Ticketing System Setup and Integration        | <a href="https://google.com">Detection Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Detection Engineering                         | Mini SOC Environment Build|
-| MITRE ATT&CK Mapping and Testing              | Mini SOC Environment Build|
+| Ticketing System Setup and Integration        | <a href="https://github.com/bsomade/Mini-SOC-Environment-Build/blob/main/README.md">Mini SOC Enviornment Build</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/bsomade/Mini-SOC-Environment-Build/blob/main/README.md">Mini SOC Enviornment Build</a>|
+| Detection Engineering                         | <a href="https://github.com/bsomade/Mini-SOC-Environment-Build/blob/main/README.md">Mini SOC Enviornment Build</a>|
+| MITRE ATT&CK Mapping and Testing              | <a href="https://github.com/bsomade/Mini-SOC-Environment-Build/blob/main/README.md">Mini SOC Enviornment Build</a>|
 
 
 ## Tools
