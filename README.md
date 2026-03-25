@@ -35,5 +35,5 @@ I've developed a passion for cybersecurity with a specifc interest in learning t
 </div>
 
 ## Projects
-- Mini SOC Environment Build
+- <a href="https://github.com/bsomade/Mini-SOC-Environment-Build/blob/main/README.md">Mini SOC Enviornment Build</a>
 
